@@ -1,0 +1,18 @@
+body{
+    background-image: url("../images/pink.jpg");
+}
+.jumbotron{
+    margin-top: 20px;
+    background-image: url("../images/yellow.jpg");
+}
+.display-4{
+    font-family: 'Fredoka One', cursive;
+    color: blue;
+}
+#answers{
+    margin: 0 20%;;
+    size: 10px;
+}
+#showresults{
+    size: 10px;
+}
